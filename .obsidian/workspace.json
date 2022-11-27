@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "2f7a4b9c67837e8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f062b7be117f6e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6d9bf9fd5139090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "solid  single resp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e3edd56ec122d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "open closed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f58c268384f7e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "изоляции.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a7a2de30955c3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "изоляции1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f90f3518b97f96d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "изоляции1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3a0e66957fea449",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8dadf11bbf534da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7a96cfb7cc69b80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92eeda617696ce22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f452ad3e9ef68c95",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45a332698ac87d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "602795f0d0f7e240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc0aa8a297ffef9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "изоляции1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "886f87ed95c9c4cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "изоляции1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ac12153964efce2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e2dd6cff2d991046",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "изоляции1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f7a96cfb7cc69b80",
+  "lastOpenFiles": [
+    "ienumerator.md",
+    "solid  single resp.md",
+    "open closed.md",
+    "изоляции1.md",
+    "Pasted image 20221127154240.png",
+    "liskov.md",
+    "img/Pasted image 20221125114423.png",
+    "img/Pasted image 20221125112703.png",
+    "img/Pasted image 20221125112052.png",
+    "изоляции.md"
+  ]
+}
